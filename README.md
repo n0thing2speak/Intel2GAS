@@ -1,4 +1,8 @@
-# Intel2GAS
+# fork and edit 
+
+Since python2 has been discontinued for maintenance, it is becoming more and more difficult to run, so I packaged it as a standalone application, and the link is [intel2gui.exe](https://github.com/n0thing2speak/Intel2GAS/releases/tag/1.0)
+
+ # Intel2GAS
 Convert MASM style inline assembly to AT&T style inline assembly, and output in pure AT&T assembly code or gcc inline assembly code. support x86, x86_64 instructions. It is a brand new replacement to old [intel2gas](http://freecode.com/projects/intel2gas "Old Intel2GAS") project.
 
 Install
